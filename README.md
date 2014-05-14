@@ -1,7 +1,7 @@
 DataVizWorkflow
 ===============
 
-Workflow Diagram Designer for Creating OpenSG/OpenGL Data Visualizations (C++)
+3D Workflow Diagram Designer for Creating OpenSG/OpenGL Data Visualizations (C++)
 
 It's a Visual Programming Tool made with QT
 
