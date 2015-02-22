@@ -19,3 +19,7 @@ Sqlite
 Visual Studio 2010
 
 My contact: njssnjss@gmail.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/njss/datavizworkflow/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
